@@ -25,7 +25,7 @@ A simple Employee Management System built with Node.js, Express, and MongoDB tha
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/employee-management.git
+   git clone https://github.com/gamipriyanka/exp4.git
    cd employee-management
 ## Usage
 - Use the form on the homepage to add a new employee.
